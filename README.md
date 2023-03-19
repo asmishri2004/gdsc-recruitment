@@ -1,1 +1,1 @@
-# gdsc-recruitment
+# gdsc-recruitment task to-do list
