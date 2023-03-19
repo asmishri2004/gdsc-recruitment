@@ -1,0 +1,56 @@
+ul {
+        list-style-type: none;
+        padding: 0;
+    font-size: 20px;
+      }
+
+      li {
+        padding: 10px;
+        margin-bottom: 5px;
+        background-color:;
+        border-radius: 5px;
+          font-size: 25px;
+          font-family:cursive;
+      }
+
+      li.completed {
+        text-decoration: line-through;
+        color: floralwhite;
+          margin-left: 50px;
+      }
+
+      .edit {
+        display: inline-block;
+        margin-left: 6em;
+        color: #333;
+        cursor: pointer;
+      }
+
+      .edit:hover {
+        text-decoration: underline;
+      }
+h1 {
+    margin-left: 20em;
+    font-family: sans-serif;
+    font-style: oblique;
+    margin-bottom: 80px;
+    
+}
+#task-input {
+    font-size: 30px;
+    column-width: auto;
+    border-width: 10px;
+}
+#add-task-btn {
+    font-size: 25px;
+    padding: 0.5em 1em;
+  background-image: url(background.jpg);
+  border-color: black ;
+
+  border-radius: 4px;
+  cursor: pointer;
+}
+body {
+   background-image: url("background.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
